@@ -1,0 +1,6 @@
+10:01,user1,login
+10:03,user2,search
+10:05,user1,purchase
+10:07,user2,search
+10:10,user3,login 
+10:13,user2,search
